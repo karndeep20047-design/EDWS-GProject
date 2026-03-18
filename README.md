@@ -26,7 +26,7 @@ reporting, and database-driven functionality following Agile/Scrum methodology.
 
 | Name | Role |
 |------|------|
-| *Karndeep Singh Bhamrah* | Scrum Master, Programmer |
+| **[Karndeep Singh Bhamrah]** | Scrum Master, Programmer |
 | Rhea Gidwani | Programmer, Lead |
 | [Santhoshi Muthukumar | Tester |
 | Rupinder Kallah | Product Owner |
