@@ -3,7 +3,7 @@
 A web-based system developed as part of a group project, implementing role-based access, 
 reporting, and database-driven functionality following Agile/Scrum methodology.
 
-##📁 Repository Contents
+## 📁 Repository Contents
 
 | Folder | Description |
 |--------|-------------|
@@ -14,7 +14,7 @@ reporting, and database-driven functionality following Agile/Scrum methodology.
 | [screencast/](./screencast/) | Link to the product demonstration video |
 | [group report/](./group%20report/) | Final group report PDF |
 
-##🔗 Quick Access
+## 🔗 Quick Access
 
 | Resource | Link |
 |----------|------|
@@ -22,15 +22,15 @@ reporting, and database-driven functionality following Agile/Scrum methodology.
 | 🎬 Screencast | [Watch Now](https://YOUR-VIDEO-LINK) |
 | 📄 Group Report | [View PDF](./group%20report/) |
 
-##👥 Group Members
+## 👥 Group Members
 
 | Name | Role |
 |------|------|
-| [Karndeep Singh Bhamrah] | Scrum Master, Programmer |
-| [Rhea Gidwani] | Programmer, Lead |
-| [Santhoshi Muthukumar] | Tester |
-| [Rupinder Kallah] | Product Owner |
-| [Eusebius Ndege] | Database Designer |
-| [Alceste Igiraneza] | Information Architect |
+| *Karndeep Singh Bhamrah* | Scrum Master, Programmer |
+| Rhea Gidwani | Programmer, Lead |
+| [Santhoshi Muthukumar | Tester |
+| Rupinder Kallah | Product Owner |
+| Eusebius Ndege | Database Designer |
+| Alceste Igiraneza | Information Architect |
 
 > **Tutor Access:** Credentials for the live site are provided in individual reports.
