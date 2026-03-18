@@ -1,7 +1,7 @@
 # EDWS-GProject
 
 A web-based system developed as part of a group project, implementing role-based access, 
-reporting, and database-driven functionality following Agile/Scrum methodology.
+reporting, and database-driven functionality following Agile/Scrum methodology. This quick navigation hub with links are below.
 
 ## 📁 Repository Contents
 
@@ -26,11 +26,11 @@ reporting, and database-driven functionality following Agile/Scrum methodology.
 
 | Name | Role |
 |------|------|
-| **[Karndeep Singh Bhamrah]** | Scrum Master, Programmer |
-| Rhea Gidwani | Programmer, Lead |
-| [Santhoshi Muthukumar | Tester |
-| Rupinder Kallah | Product Owner |
-| Eusebius Ndege | Database Designer |
-| Alceste Igiraneza | Information Architect |
+| **Karndeep Singh Bhamrah** | Scrum Master, Programmer |
+| **Rhea Gidwani** | Programmer, Lead |
+| **Santhoshi Muthukumar** | Tester |
+| **Rupinder Kallah** | Product Owner |
+| **Eusebius Ndege** | Database Designer |
+| **Alceste Igiraneza** | Information Architect |
 
 > **Tutor Access:** Credentials for the live site are provided in individual reports.
