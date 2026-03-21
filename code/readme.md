@@ -4,4 +4,4 @@ To run the system:
 
 Download and extract the ZIP file into C:\xampp\htdocs.
 Open the XAMPP Control Panel and start Apache and MySQL.
-Import the SQL database from the [code/](./code/) folder into phpMyAdmin via localhost.
+Ensure you have imported the SQL database from the [database/](./database/) folder into phpMyAdmin via localhost.
