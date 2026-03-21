@@ -20,7 +20,7 @@ reporting, and database-driven functionality following Agile/Scrum methodology. 
 | Resource | Link |
 |----------|------|
 | 🌐 Live Website | [Visit Site](https://YOUR-SITE-URL) |
-| 🎬 Screencast | [Watch Now]([https://youtu.be/6RmeGKrzzsw]) |
+| 🎬 Screencast | [Watch Now](https://youtu.be/6RmeGKrzzsw) |
 | 📄 Group Report | [View PDF](./group%20report/) |
 
 ## 👥 Group Members
