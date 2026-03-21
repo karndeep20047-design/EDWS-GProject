@@ -1,1 +1,1 @@
-This folder contains all the system codes in one singular zip file. To test the system, download and extract the zip file in C:\xampp\htdocs, and start xampp control panel and apache/mysql
+This folder contains all the system codes in one singular zip file. To test the system, download and extract the zip file in C:\xampp\htdocs, and start xampp control panel and apache/mysql, also don't forget to import sql db from [code/](./code/) into phpmyadmin from localhost web
