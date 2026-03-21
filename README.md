@@ -19,8 +19,8 @@ reporting, and database-driven functionality following Agile/Scrum methodology. 
 
 | Resource | Link |
 |----------|------|
-| 🌐 Live Website | [Visit Site](https://YOUR-SITE-URL) |
-| 🎬 Screencast | [Watch Now](https://youtu.be/6RmeGKrzzsw) |
+| 🌐 Live Website | [Visit Site](https://uniscope.wuaze.com/Uni_Scope2/) |
+| 🎬 Screencast | [Watch Now](https://youtu.be/ltQuPSKIhB0) |
 | 📄 Group Report | [View PDF](./group%20report/) |
 
 ## 👥 Group Members
