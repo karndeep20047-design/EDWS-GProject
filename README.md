@@ -29,7 +29,7 @@ reporting, and database-driven functionality following Agile/Scrum methodology. 
 |------|------|
 | **Karndeep Bhamrah** | *Scrum Master, Programmer* |
 | **Rhea Gidwani** | *Programmer, Lead* |
-| **Santhoshi Muthukumar** | *Tester* |
+| **Santhoshi Muthukumar** | *Tester, Web Designer* |
 | **Rupinder Kallah** | *Product Owner* |
 | **Eusebius Ndege** | *Database Designer* |
 | **Alceste Igiraneza** | *Information Architect* |
