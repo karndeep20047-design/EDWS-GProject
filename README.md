@@ -7,7 +7,7 @@ reporting, and database-driven functionality following Agile/Scrum methodology. 
 
 | Folder | Description |
 |--------|-------------|
-| [agile/](./agile/) | Sprint logs, burndown charts, product backlog & meeting minutes |
+| [agile/](./agile/) | Burndown charts, product backlog & meeting minutes |
 | [code/](./code/) | Full system source code |
 | [database/](./database/) | ERD and database schema files |
 | [design/](./design/) | Wireframes, UI mockups & accessibility notes |
