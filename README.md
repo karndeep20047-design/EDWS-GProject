@@ -28,10 +28,9 @@ reporting, and database-driven functionality following Agile/Scrum methodology. 
 | Name | Role |
 |------|------|
 | **Karndeep Bhamrah** | *Scrum Master, Programmer* |
-| **Rhea Gidwani** | *Programmer, Lead* |
+| **Rhea Gidwani** | *Programmer, Information Architect, Lead* |
 | **Santhoshi Muthukumar** | *Tester* |
 | **Rupinder Kallah** | *Product Owner, Web Designer* |
 | **Eusebius Ndege** | *Database Designer* |
-| **Alceste Igiraneza** | *Information Architect* |
 
 > **Tutor Access:** Credentials for the live site are provided in individual reports.
