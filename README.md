@@ -1,7 +1,7 @@
 # EDWS-GProject
 
 A web-based system developed as part of a group project, implementing role-based access, 
-reporting, and database-driven functionality following Agile/Scrum methodology. This quick navigation hub with links are below.
+reporting and database-driven functionality following Agile/Scrum methodology. This quick navigation hub with links are below.
 
 ## 📁 Repository Contents
 
