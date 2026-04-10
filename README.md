@@ -7,11 +7,9 @@ reporting and database-driven functionality following Agile/Scrum methodology. T
 
 | Folder | Description |
 |--------|-------------|
-| [agile/](./agile/) | Burndown charts, product backlog & meeting minutes |
-| [code/](./code/) | Full system source code |
-| [database/](./database/) | ERD and database schema files |
+| [agile/](./agile/) | Burndown charts, product backlog, test plan & meeting minutes |
+| [system/](./system_code_and_database/) | Full system source code and database |
 | [design/](./design/) | Wireframes & diagrams |
-| [testing/](./testing/) | Test plan and test log with results |
 | [screencast/](./screencast/) | Link to the product demonstration video |
 | [group report/](./group%20report/) | Final group report PDF |
 
@@ -33,4 +31,4 @@ reporting and database-driven functionality following Agile/Scrum methodology. T
 | **Rupinder Kallah** | *Product Owner, Web Designer* |
 | **Eusebius Ndege** | *Database Designer* |
 
-> **Tutor Access:** Credentials for the live site are provided in individual reports.
+> **Tutor Access:** Credentials for the live site are provided in group and individual reports.
