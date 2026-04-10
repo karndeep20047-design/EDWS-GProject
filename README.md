@@ -21,7 +21,7 @@ reporting and database-driven functionality following Agile/Scrum methodology. T
 |----------|------|
 | 🌐 Live Website | [Visit Site](https://uniscope.wuaze.com/Uni_Scope2/) |
 | 🎬 Screencast | [Watch Now](https://youtu.be/ltQuPSKIhB0) |
-| 📄 Group Report | [View PDF](./group%20report/) |
+| 📄 Group Report | [View Report](./group%20report/) |
 
 ## 👥 Group Members
 
