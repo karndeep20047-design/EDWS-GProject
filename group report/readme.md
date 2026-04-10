@@ -1,3 +1,2 @@
-This folder contains the final group report delivarable in both the word format and pdf
-
+This folder contains the final group report delivarable in both the word format
 
