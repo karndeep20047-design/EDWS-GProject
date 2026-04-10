@@ -10,7 +10,6 @@ reporting and database-driven functionality following Agile/Scrum methodology. T
 | [agile/](./agile/) | Burndown charts, product backlog, test plan & meeting minutes |
 | [system/](./system_code_and_database/) | Full system source code and database |
 | [design/](./design/) | Wireframes & diagrams |
-| [screencast/](./screencast/) | Link to the product demonstration video |
 | [group report/](./group%20report/) | Final group report PDF |
 
 ## 🔗 Quick Access
